@@ -1,4 +1,4 @@
-job_title,salary_estimate,job_description,rating,company_name,location,headquarters,size,founded,type_of_ownership,industry,sector,revenue,competitors,company_text,job_state,hourly,employer_provided_salary,min_salary,max_salary,avg_salary,same_state,company_age,min_emp_count,max_emp_count,avg_emp_count,python_yn,r_yn,power bi_yn,sql_yn,excel_yn,spark_yn,title_simplified,seniority,desc_len,competitor_count
+job_title,salary_estimate,job_description,rating,company_name,location,headquarters,size,founded,type_of_ownership,industry,sector,revenue,competitors,company_text,job_state,hourly,employer_provided_salary,min_salary,max_salary,avg_salary,same_state,company_age,min_emp_count,max_emp_count,avg_emp_count,python_yn,r_yn,power_bi_yn,sql_yn,excel_yn,spark_yn,title_simplified,seniority,desc_len,competitor_count
 Data Scientist,$53K-$91K (Glassdoor est.),"Data Scientist
 Location: Albuquerque, NM
 Education Required: Bachelor’s degree required, preferably in math, engineering, business, or the sciences.
@@ -19,7 +19,7 @@ Tuition assistance
 Benefits are provided to employees regularly working a minimum of 30 hours per week.
 
 Tecolote Research is a private, employee-owned corporation where people are our primary resource. Our investments in technology and training give our employees the tools to ensure our clients are provided the solutions they need, and our very high employee retention rate and stable workforce is an added value to our customers. Apply now to connect with a company that invests in you.",3.8,"Tecolote Research
-3.8","Albuquerque, NM","Goleta, CA",501 to 1000 employees,1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),-1,Tecolote Research, NM,0,0,53.0,91.0,79.5,0,53,501.0,1000.0,750,True,False,True,False,True,False,data scientist,na,2536,0
+3.8","Albuquerque, NM","Goleta, CA",501 to 1000 employees,1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),-1,Tecolote Research, NM,0,0,53.0,91.0,79.5,0,53,501.0,1000.0,750,True,False,False,False,True,False,data scientist,na,2536,0
 Healthcare Data Scientist,$63K-$112K (Glassdoor est.),"What You Will Do:
 
 I. General Summary
@@ -207,7 +207,7 @@ Every position requires certain physical capabilities. CyrusOne seeks to make re
 CyrusOne is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.
 
 CyrusOne provides reasonable accommodation for qualified individuals with disabilities in accordance with the Americans with Disabilities Act (ADA) and any other state or local laws. We will respond to requests for reasonable accommodations to assist you in applying for positions at CyrusOne, or to submit a resume. If you need to request an accommodation, please contact our Human Resources at 214.488.1365 (Option 7) or by email at HR@cyrusone.com.",3.4,"CyrusOne
-3.4","Dallas, TX","Dallas, TX",201 to 500 employees,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),"Digital Realty, CoreSite, Equinix",CyrusOne, TX,0,0,71.0,119.0,106.5,1,26,201.0,500.0,350,True,True,True,True,False,False,data scientist,na,3747,3
+3.4","Dallas, TX","Dallas, TX",201 to 500 employees,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),"Digital Realty, CoreSite, Equinix",CyrusOne, TX,0,0,71.0,119.0,106.5,1,26,201.0,500.0,350,True,True,False,True,False,False,data scientist,na,3747,3
 Data Scientist,$54K-$93K (Glassdoor est.),"Job Description
 
 **Please only local candidates apply - thank you**
@@ -501,7 +501,7 @@ Our mission is to positively impact the people we work with, the people we work 
 Our policies, practices, programs, activities and decisions regarding employment, hiring, assignment, promotion, compensation, volunteerism, and internships are not based on a person’s race, color, sex, age, religion, national origin, mental or physical disability, ancestry, military discharge status, sexual orientation, gender identity or expression, marital status, source of income, parental status, housing status, or other protected status. We strongly encourage women, people of color, veterans, individuals with disabilities, and members of the LGBTQ community to apply.
 
 Visit yesler.com to learn more, or follow us on Twitter @yeslerb2b.com",4.1,"Yesler
-4.1","Seattle, WA","Seattle, WA",201 to 500 employees,2012,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,Yesler, WA,0,0,46.0,85.0,69.0,1,14,201.0,500.0,350,True,True,True,True,True,True,analyst,na,4897,0
+4.1","Seattle, WA","Seattle, WA",201 to 500 employees,2012,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,Yesler, WA,0,0,46.0,85.0,69.0,1,14,201.0,500.0,350,True,True,False,True,True,True,analyst,na,4897,0
 Data Scientist,$83K-$144K (Glassdoor est.),"Job Description
 
 
@@ -1403,7 +1403,7 @@ Demonstrated fluency in working in multi system tracking environment and ability
 Outstanding skills in data delivery technologies and tools not limited to Tableau, Excel, PowerPoint/Keynote.
 Fluency in SQL, big data applications, CLI commands, scripting languages such as Python/R, statistical applications and data visualization tools (Tableau, Power BI or ClickView)
 Passion for data discovery and striving for accuracy.",4.2,"Clarity Insights
-4.2","San Jose, CA","Chicago, IL",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,Clarity Insights, CA,0,0,77.0,135.0,115.5,0,18,201.0,500.0,350,True,True,True,True,True,False,analyst,na,1739,0
+4.2","San Jose, CA","Chicago, IL",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,Clarity Insights, CA,0,0,77.0,135.0,115.5,0,18,201.0,500.0,350,True,True,False,True,True,False,analyst,na,1739,0
 Data Scientist,$82K-$132K (Glassdoor est.),"Overview
 
 
@@ -3743,7 +3743,7 @@ culture of innovation that embraces diversity, inclusion, flexibility,
 collaboration, and career growth. If this sounds like the choice you want to
 make, then choose MITRE—and make a difference with us. For more information
 please visit https://www.mitre.org/careers/working-at-mitre. U.S Citizenship is required for most positions.",3.2,"MITRE
-3.2","McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",MITRE, VA,0,0,72.0,123.0,108.0,0,68,5001.0,10000.0,7500,True,True,True,True,False,False,data scientist,na,5342,3
+3.2","McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",MITRE, VA,0,0,72.0,123.0,108.0,0,68,5001.0,10000.0,7500,True,True,False,True,False,False,data scientist,na,5342,3
 Data Scientist,$74K-$124K (Glassdoor est.),"Data Scientist
 US Citizenship and a current TS/SCI clearance are required for the position.
 
@@ -4116,7 +4116,7 @@ For over 20 years, customers around the world have entrusted AAM to design, engi
 AAM delivers power. We deliver power literally through vehicle components, systems and innovation, but we also deliver power in ways unseen. We power our associates, their families, and the communities in which we operate. Our global team of over 25,000 associates has a clear vision of where AAM is going and how we are going to get there. After all, they are the reason we are a leader in the automotive industry. We are powering the future. We are AAM. Move with us, and join #TeamAAM.
 
 AAM will not discriminate against any Associate or applicant for employment because of age, race, color, gender, religion, weight, height, marital status, sexual orientation, genetic history or information, gender identity or expression, disability, protected veteran status, national origin, or other characteristic protected by law. AAM will take affirmative action to ensure that applicants are employed, and that Associates are treated equally during employment, without regard to their age, race, color, gender, religion, weight, height, marital status, sexual orientation, genetic history or information, gender identity or expression, disability, protected veteran status, national origin, or other characteristic protected by law. For the Disabled Job Seeker: We offer reasonable accommodations for qualified disabled individuals who are applicants for employment. To request assistance or accommodations, please e-mail aamhr@aam.com . AAM is an equal opportunity/affirmative action employer.",3.3,"American Axle & Manufacturing
-3.3","Southfield, MI","Detroit, MI",10000+ employees,1994,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),-1,American Axle & Manufacturing, MI,0,0,80.0,129.0,120.0,0,32,10000.0,10000.0,10000,True,True,True,True,False,True,data scientist,senior,4753,0
+3.3","Southfield, MI","Detroit, MI",10000+ employees,1994,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),-1,American Axle & Manufacturing, MI,0,0,80.0,129.0,120.0,0,32,10000.0,10000.0,10000,True,True,False,True,False,True,data scientist,senior,4753,0
 Financial Data Analyst,$41K-$72K (Glassdoor est.),"CentralReach is a leading provider of end-to-end practice management and clinical solutions that enable applied behavior analysis (ABA) clinicians and educators to produce superior outcomes for people with autism. The company is revolutionizing the ABA space with cutting-edge solutions including precision teaching, clinical data collection, scheduling, billing, learning management, fully digital evidence-based programming and more. Trusted by more than 80,000 clinicians and educators, CentralReach is committed to ongoing product improvement, market-leading industry expertise, world-class client satisfaction, and support of the ABA community to propel industry practitioners into a new era of excellence.
 
 We are looking for a Financial Analyst to join our finance team reporting directly to the FP&A Manager! The ideal candidate will be a self-starter with a desire to complete recurring and ad-hoc tasks with minimal supervision.
@@ -4185,7 +4185,7 @@ Integrate Acquires Akkroo
 Integrate Acquires ListenLoop
 Why Four MarTech CEO's Bet Big on Integrate
 Typical Office Environment: Requires extensive sitting with periodic standing and walking. May be required to lift up to 35 pounds unassisted. May be required to lift over 35 pounds using assistive device and/or team lift. Requires significant use of personal computer, phone and general office equipment. Needs adequate visual acuity, ability to grasp and handle objects. Needs ability to communicate effectively through reading, writing, and speaking in person or on telephone.",4.3,"Integrate
-4.3","Phoenix, AZ","Phoenix, AZ",201 to 500 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,Integrate, AZ,0,0,39.0,71.0,58.5,1,16,201.0,500.0,350,False,False,True,True,True,False,analyst,senior,3209,0
+4.3","Phoenix, AZ","Phoenix, AZ",201 to 500 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,Integrate, AZ,0,0,39.0,71.0,58.5,1,16,201.0,500.0,350,False,False,False,True,True,False,analyst,senior,3209,0
 Research Scientist,$38K-$85K (Glassdoor est.),"Research Scientist
 Location
 
@@ -4571,7 +4571,7 @@ Advanced Microsoft Excel proficiency
 Proficiency with data visualization tools such as Tableau and Microsoft Power BI
 Experience effectively bridging business and technical teams
 Must have: MS in Applied Math, Statistics or Quantitative Finance, plus at least 3 years of experience as a Data Scientist, Data Insights Analyst or similar role performing quantitative and qualitative business analysis",4.4,"Quick Base
-4.4","Cambridge, MA","Cambridge, MA",201 to 500 employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,Quick Base, MA,0,0,77.0,124.0,115.5,1,27,201.0,500.0,350,True,False,True,True,True,False,data scientist,na,4188,0
+4.4","Cambridge, MA","Cambridge, MA",201 to 500 employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,Quick Base, MA,0,0,77.0,124.0,115.5,1,27,201.0,500.0,350,True,False,False,True,True,False,data scientist,na,4188,0
 Data Scientist,$80K-$135K (Glassdoor est.),"E.W. Scripps is a company rich in media history focused on the future. We are one of the nation's largest independent TV station owners with 60 stations nationwide, and we are working to stay ahead of the ways in which people use technology to find news and information. Our commitment to the future means that discovery is commonplace, the status quo is challenged, iteration and collaboration are the norm and new ideas are welcome. Join a team of top performers and help shape the future of the most strategic and well positioned media company – E. W. Scripps. This position will be located in Cincinnati, OH or Washington, DC.
 
 At Scripps, you’ll:
@@ -6025,7 +6025,7 @@ Prior experience in CPG is highly preferred.
 Church & Dwight is proud to be an Equal Opportunity Employer/Veterans/Individuals with Disabilities.
 
 For more information on our company, our brands and our culture visit us at http://www.churchdwight.com/",3.4,"Church & Dwight
-3.4","Ewing, NJ","Ewing, NJ",1001 to 5000 employees,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),-1,Church & Dwight, NJ,0,0,85.0,134.0,127.5,1,180,1001.0,5000.0,3000,True,True,True,False,True,False,manager,na,2962,0
+3.4","Ewing, NJ","Ewing, NJ",1001 to 5000 employees,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),-1,Church & Dwight, NJ,0,0,85.0,134.0,127.5,1,180,1001.0,5000.0,3000,True,True,False,False,True,False,manager,na,2962,0
 Lead Data Scientist,$124K-$204K (Glassdoor est.),"Job Description
 
 Since 1851, MassMutuals commitment has always been to help people protect their families, support their communities, and help one another. This is why we want to inspire people to Live Mutual. Were people helping people.
@@ -6462,7 +6462,7 @@ Occasionally required to use hands and fingers to operate, handle, and reach.
 Vision abilities include close vision and the ability to adjust focus.
 Must be flexible to work after business hours and on weekends, when necessary.
 Travel via car, train, and/or airplane, when needed.",2.9,"National Student Clearinghouse
-2.9","Herndon, VA","Herndon, VA",201 to 500 employees,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),"Ellucian, Parchment, College Board",National Student Clearinghouse, VA,0,0,43.0,80.0,64.5,1,33,201.0,500.0,350,True,True,True,True,True,False,analyst,senior,5736,3
+2.9","Herndon, VA","Herndon, VA",201 to 500 employees,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),"Ellucian, Parchment, College Board",National Student Clearinghouse, VA,0,0,43.0,80.0,64.5,1,33,201.0,500.0,350,True,True,False,True,True,False,analyst,senior,5736,3
 Medical Lab Scientist,$17-$24 Per Hour(Glassdoor est.),"Overview
 
 About
@@ -8169,7 +8169,7 @@ Excellent analytical abilities; fluency with Microsoft Word, Excel and PowerPoin
 Ability to work with a cross functional teams and work in a fast pace and dynamic environment
 Strong written and verbal communication skills
 Self-starter",3.8,"Fareportal
-3.8","New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",Fareportal, NY,0,0,44.0,86.0,66.0,1,24,1001.0,5000.0,3000,False,False,True,True,True,False,analyst,na,2469,3
+3.8","New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",Fareportal, NY,0,0,44.0,86.0,66.0,1,24,1001.0,5000.0,3000,False,False,False,True,True,False,analyst,na,2469,3
 Medical Technologist / Clinical Laboratory Scientist,$15-$25 Per Hour(Glassdoor est.),"The incumbent performs a broad range of laboratory procedures including all testing and tasks of the Medical Technologist (MT) /Clinical Laboratory Scientist (CLS). Incumbent is assigned to rotate through different sections of the laboratory for optimal patient care. Sections include (but are not limited to) Chemistry, Hematology, Blood Bank, Microbiology, Molecular Microbiology, and Specimen Receiving and Processing. IMPORTANT: A transcript must be submitted with your application if you are basing all or part of your qualifications on education.
 
 Note: Only education or degrees recognized by the U.S. Department of Education from accredited colleges, universities, schools, or institutions may be used to qualify for Federal employment. You can verify your education here: http://ope.ed.gov/accreditation/. If you are using foreign education to meet qualification requirements, you must send a Certificate of Foreign Equivalency with your transcript in order to receive credit for that education. For further information, visit: http://www.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html.Independently Performs advanced and complex laboratory procedures in the clinical laboratory. Recognizes deviation from expected results; analyzes and corrects problems using scientific principles.
@@ -8238,7 +8238,7 @@ Along with a great company culture, Credera provides an outstanding compensation
 U.S. Equal Opportunity Employment Information (Completion is voluntary)
 
 Individuals seeking employment at Credera are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. Completion of the last four questions in our application is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.",4.3,"Credera
-4.3","Dallas, TX","Dallas, TX",201 to 500 employees,1999,Subsidiary or Business Segment,Consulting,Business Services,Unknown / Non-Applicable,-1,Credera, TX,0,0,53.0,92.0,79.5,1,27,201.0,500.0,350,True,True,True,True,False,True,data scientist,na,5775,0
+4.3","Dallas, TX","Dallas, TX",201 to 500 employees,1999,Subsidiary or Business Segment,Consulting,Business Services,Unknown / Non-Applicable,-1,Credera, TX,0,0,53.0,92.0,79.5,1,27,201.0,500.0,350,True,True,False,True,False,True,data scientist,na,5775,0
 Data Scientist,$64K-$111K (Glassdoor est.),"What’s significantly better than working on a typical data science team? How about working on a data science team in which you’re directly making an impact in the revolutionary field of artificial intelligence even as an entry level team member? (well, statistically significant that is). Pardon the pun, but at Spectrum we’re certain that our team is pumped up to work not only with like-minded data-savvy and fun loving professionals, but also to work with cutting edge new tools like our predictive, artificially intelligent proprietary software. So, if your confident that you want to make a direct impact in your next job today, then please keep on reading.
 
 Responsibilities
@@ -8573,7 +8573,7 @@ Our teams are crafting solutions to big problems every day. If you’re looking 
 Our Dedication to Diversity & Inclusion
 
 TrueAccord is an equal opportunity employer. We promote, value, and thrive with a diverse & inclusive team. Different perspectives contribute to better solutions and this makes us stronger every day. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.4,"TrueAccord
-3.4","San Francisco, CA","San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,TrueAccord, CA,0,0,48.0,90.0,72.0,1,13,51.0,200.0,126,True,True,True,True,False,False,analyst,na,5483,0
+3.4","San Francisco, CA","San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,TrueAccord, CA,0,0,48.0,90.0,72.0,1,13,51.0,200.0,126,True,True,False,True,False,False,analyst,na,5483,0
 Data Analyst,$34K-$64K (Glassdoor est.),"Data Analyst
 
 Do you love data? Do you thrive on digging for info to answer complex questions and solve head-scratching problems? If you say yes, you might be part of the next generation of data scientists we’re looking for! This entry-level position will assist in prepping raw data for analysis, running and monitoring statistical models, and preparing findings for internal and external use.
@@ -9169,7 +9169,7 @@ Essential job duties: List job duties: 1.Ability to think strategically in conne
 QUALIFICATIONS
 
 Required Experience: 1.Must have proven problem solving and critical thinking skills. 2.Light experience in writing SQL statements or using a graphical user interface tool that writes SQL statements. 3.Intermediate to Advanced level knowledge of Microsoft Office Suite including Excel, Word. 4.Experience presenting technical data and information to non-technical users. License/Certifications: N/A Required Education: BA/BS in computer science, statistics, and/or public health or related field.",3.3,"The HSC Health Care System
-3.3","Washington, DC","Washington, DC",501 to 1000 employees,1883,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,The HSC Health Care System, DC,0,0,37.0,63.0,55.5,1,143,501.0,1000.0,750,False,False,True,True,True,False,analyst,junior,4135,0
+3.3","Washington, DC","Washington, DC",501 to 1000 employees,1883,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,The HSC Health Care System, DC,0,0,37.0,63.0,55.5,1,143,501.0,1000.0,750,False,False,False,True,True,False,analyst,junior,4135,0
 SQL Data Engineer,$67K-$119K (Glassdoor est.),"Overview
 
 
@@ -9825,7 +9825,7 @@ Desirable Skills
 Microsoft related certifications such as the MCSD/MCSE
 Experience with Hadoop-based technologies (HDInsight, Spark, Hive, Pig, Scala, etc.)
 Experience with visualization tools such as Power BI or Tableau",4.6,"Applied Information Sciences
-4.6","Houston, TX","Reston, VA",501 to 1000 employees,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1,Applied Information Sciences, TX,0,0,52.0,99.0,78.0,0,44,501.0,1000.0,750,False,False,True,True,False,True,data engineer,na,2047,0
+4.6","Houston, TX","Reston, VA",501 to 1000 employees,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1,Applied Information Sciences, TX,0,0,52.0,99.0,78.0,0,44,501.0,1000.0,750,False,False,False,True,False,True,data engineer,na,2047,0
 Senior Data Scientist,$105K-$173K (Glassdoor est.),"About Swiss Re
 
 The Swiss Re Group is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. It anticipates and manages risk – from natural catastrophes to climate change, from ageing populations to cybercrime. The aim of the Swiss Re Group is to enable society to thrive and progress, creating new opportunities and solutions for its clients. Headquartered in Zurich, Switzerland, where it was founded in 1863, the Swiss Re Group operates through a network of around 80 offices globally. It is organised into three Business Units, each with a distinct strategy and set of objectives contributing to the Group’s overall mission.
@@ -11733,7 +11733,7 @@ Familiarity with one or more ETL tools such as Microsoft SSIS, Talend, Data Serv
 Experience with MATLAB a plus
 Experience with web development a plus
 A bachelor's degree and 7 years of professional work experience (or a master's degree and 5 years of professional work experience) is required.",4.4,"MathWorks
-4.4","Natick, MA","Natick, MA",1001 to 5000 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,MathWorks, MA,0,0,108.0,171.0,162.0,1,42,1001.0,5000.0,3000,True,False,True,True,False,False,data scientist,senior,2518,0
+4.4","Natick, MA","Natick, MA",1001 to 5000 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,MathWorks, MA,0,0,108.0,171.0,162.0,1,42,1001.0,5000.0,3000,True,False,False,True,False,False,data scientist,senior,2518,0
 Data Engineer,$76K-$142K (Glassdoor est.),"MetroStar Systems is looking for a Data Engineer that is passionate about creating and managing modern data structures and supporting applications. The goal is to migrate legacy databases from premise to AWS and transform them into a Data Lake for a modern web application. This project is using the most up-to-date technologies lead by a highly technical team. If you want to join a company that values people that are fearless about making technology work and are open to commuting primarily to Rockville, MD; but may also include Reston, VA, we want you to work for MetroStar!
 
 You're a great fit if:
@@ -12989,7 +12989,7 @@ Ability to work independently and be a self-starter
 Wave6, an Emtec Company, is an Equal Opportunity Employer
 
 US / Canadian citizens and those authorized to work in the US / Canada are encouraged to apply",3.9,"Emtec, Inc.
-3.9","Chicago, IL","Jacksonville, FL",501 to 1000 employees,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,"Emtec, Inc.", IL,0,0,52.0,81.0,78.0,0,31,501.0,1000.0,750,True,True,True,True,False,False,na,na,4759,0
+3.9","Chicago, IL","Jacksonville, FL",501 to 1000 employees,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,"Emtec, Inc.", IL,0,0,52.0,81.0,78.0,0,31,501.0,1000.0,750,True,True,False,True,False,False,na,na,4759,0
 "Technology-Minded, Data Professional Opportunities",$40K-$101K (Glassdoor est.),"At VU, we help Veterans buy homes. To make that happen, we have a variety of Technology-Minded, Data Professional Opportunities. The mantra that guides all of our Technology teams is, “see a need, fill a need.” That mentality led us to create a uniquely diverse department. We don’t just maintain vendors, but, given our special line of business, we are often creating the technological solutions we need.
 
 The VU Technology Department includes:
@@ -14342,7 +14342,7 @@ What’s in it for you:
 · Joining a growing and exciting team making a big impact on the business!
 
 TRANZACT, a Willis Towers Watson Company, is an Equal Opportunity/Affirmative Action employer and voluntarily complies with the laws and regulations related to employment without regard to race, color, religion, sex, national origin, marital status, sexual orientation, age, status as a protected veteran or individual with a disability, ancestry, gender, gender identity or expression, or any other protected group status or non-job related characteristic protected by applicable human rights or equal opportunity legislation. We are a company that values diversity. As required by law, we must record certain information to be used as part of our Affirmative Action Program. In extending this invitation you are advised that (a) response data is used for periodic government reporting and will remain confidential within Human Resources department; (b) responses are used solely to help us comply with government record keeping, reporting and other legal requirements.",3.6,"TRANZACT
-3.6","Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,TRANZACT, NJ,0,0,124.0,199.0,186.0,1,37,1001.0,5000.0,3000,True,False,True,True,True,False,director,na,5121,0
+3.6","Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,TRANZACT, NJ,0,0,124.0,199.0,186.0,1,37,1001.0,5000.0,3000,True,False,False,True,True,False,director,na,5121,0
 Sr Data Analyst - IT,$52K-$93K (Glassdoor est.),"Position Summary
 The Senior Data Analyst drives pharma client analytics solutions for United BioSource Corporation (UBC), supporting many of the world’s largest pharmaceutical companies to improve patient lives, support drug safety programs, and help manage new Clinical studies.
 
@@ -15313,7 +15313,7 @@ Beckman Coulter is a Danaher Operating Company. As a $20B company with 60,000 as
 At Danaher, we are dedicated to building and sustaining a truly diverse and inclusive culture. These are not just words on a pageDiversity and Inclusion is a top priority for the company, and it ties deeply to each of our core values.
 
 Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The EEO is the Law poster is available here.",3.6,"Beckman Coulter Diagnostics
-3.6","New York, NY","Brea, CA",10000+ employees,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),"Abbott Laboratories, Roche, Thermo Fisher Scientific",Beckman Coulter Diagnostics, NY,0,0,54.0,92.0,81.0,0,91,10000.0,10000.0,10000,False,False,True,True,True,False,analyst,na,6513,3
+3.6","New York, NY","Brea, CA",10000+ employees,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),"Abbott Laboratories, Roche, Thermo Fisher Scientific",Beckman Coulter Diagnostics, NY,0,0,54.0,92.0,81.0,0,91,10000.0,10000.0,10000,False,False,False,True,True,False,analyst,na,6513,3
 Data Scientist,$61K-$100K (Glassdoor est.),"Who we are:
 
 
@@ -15675,7 +15675,7 @@ NageeshÂGÂ
 Main:Â901-313-3066
 Email:Ânagesh@conchtech.com
 Web:Âwww.conchtech.comÂ",4.6,"Conch Technologies, Inc
-4.6","Waltham, MA","Memphis, TN",51 to 200 employees,-1,Company - Private,Consulting,Business Services,$5 to $10 million (USD),-1,"Conch Technologies, Inc", MA,0,0,70.0,118.0,105.0,0,-1,51.0,200.0,126,True,False,True,True,False,True,data scientist,na,2956,0
+4.6","Waltham, MA","Memphis, TN",51 to 200 employees,-1,Company - Private,Consulting,Business Services,$5 to $10 million (USD),-1,"Conch Technologies, Inc", MA,0,0,70.0,118.0,105.0,0,-1,51.0,200.0,126,True,False,False,True,False,True,data scientist,na,2956,0
 Senior Data Scientist,$94K-$153K (Glassdoor est.),"Medidata: Conquering Diseases Together
 
 Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical device and diagnostics companies, and academic researchers accelerate value, minimize risk, and optimize outcomes. More than one million registered users across 1,400 customers and partners access the world's most-used platform for clinical development, commercial, and real-world data. Medidata, a Dassault Systèmes company, is headquartered in New York City and has offices around the world to meet the needs of its customers. Discover more at www.medidata.com.
@@ -16759,7 +16759,7 @@ At Adobe, you will be immersed in an exceptional work environment that is recogn
 If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
 
 Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, religion, age, sexual orientation, gender identity, disability or veteran status.",4.0,"Adobe
-4.0","San Jose, CA","San Jose, CA",10000+ employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Apple, Microsoft",Adobe, CA,0,0,116.0,208.0,174.0,1,44,10000.0,10000.0,10000,True,False,True,True,False,False,na,na,3864,2
+4.0","San Jose, CA","San Jose, CA",10000+ employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Apple, Microsoft",Adobe, CA,0,0,116.0,208.0,174.0,1,44,10000.0,10000.0,10000,True,False,False,True,False,False,na,na,3864,2
 Senior Data Scientist,$102K-$165K (Glassdoor est.),"Sartorius Stedim Data Analytics, a market leader in advanced analytics and provider of Umetrics Suite of Data Analytics Solutions, is on a strong growth path driving new innovative solutions in the field. It currently has an outstanding opportunity for a Senior Data Scientist to drive customer applications, support the Sartorius sales teams and feedback customer needs into the development of new solutions. The incumbent for this key role will have a strong customer focus to help secure innovation and growth from both new and existing customers.
 
 What you can look forward to
@@ -17860,7 +17860,7 @@ Our benefits include 100% paid for Medical, Dental and Vision for you and your e
 About Demandbase
 
 Demandbase is the leader in Account-Based Marketing (ABM) and an indispensable part of the B2B tech stack. The company offers the only end-to-end ABM platform that helps B2B marketers identify, win and grow the accounts that matter most. The biggest and fastest growing companies in the world, such as Accenture, Adobe, DocuSign, GE, Salesforce and others rely on Demandbase to drive their ABM strategy and maximize their marketing performance. The company has been named to the JMP Securities list ""The Hot 100: The Best Privately Held Software Companies,"" the Deloitte Fast 500 and named a Gartner Cool Vendor for Tech Go-To Market. In 2019, Demandbase executives authored the definitive book on ABM, Account-Based Marketing: How to Target and Engage the Companies That Will Grow Your Revenue. For more information, please visit www.demandbase.com or follow the company on Twitter @Demandbase.",4.5,"Demandbase
-4.5","San Francisco, CA","San Francisco, CA",201 to 500 employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),"Engagio, Bombora, Terminus",Demandbase, CA,0,0,90.0,153.0,135.0,1,20,201.0,500.0,350,False,False,True,True,False,False,analyst,senior,3726,3
+4.5","San Francisco, CA","San Francisco, CA",201 to 500 employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),"Engagio, Bombora, Terminus",Demandbase, CA,0,0,90.0,153.0,135.0,1,20,201.0,500.0,350,False,False,False,True,False,False,analyst,senior,3726,3
 Data Engineer,$42K-$79K (Glassdoor est.),"Data Engineer
 9920
 Scottsdale,
@@ -18179,7 +18179,7 @@ This position maps to the Individual Contributor level. Additional competencies 
 WORK ENVIRONMENT
 
 This position operates in an office environment and requires the frequent use of a computer, telephone, copier, and other standard office equipment.",2.8,"ICW Group
-2.8","San Diego, CA","San Diego, CA",501 to 1000 employees,1972,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),"Liberty Mutual Insurance, EMPLOYERS, Travelers",ICW Group, CA,0,0,57.0,109.0,85.5,1,54,501.0,1000.0,750,False,False,True,True,False,False,data engineer,na,3828,3
+2.8","San Diego, CA","San Diego, CA",501 to 1000 employees,1972,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),"Liberty Mutual Insurance, EMPLOYERS, Travelers",ICW Group, CA,0,0,57.0,109.0,85.5,1,54,501.0,1000.0,750,False,False,False,True,False,False,data engineer,na,3828,3
 Associate Research Scientist I (Protein Expression and Production),$59K-$116K (Glassdoor est.),"Position Description
 
 The successful candidate will be highly proficient in recombinant protein expression and production by using various host cell systems (e.g. Mammalian, BEVS, and E coli). Responsible for the generation of milligram to sub-gram scale quantities of recombinant proteins to support small molecules high throughput screen.
@@ -18832,7 +18832,7 @@ Position Requirements:
 · Plan, design and build ETL solutions for the Data Warehouse
 
 · Knowledge of modern trends, tools and approaches to collection and visualization",3.7,"Community Behavioral Health
-3.7","Philadelphia, PA","Phila, PA",201 to 500 employees,1994,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,Community Behavioral Health, PA,0,0,50.0,89.0,75.0,0,32,201.0,500.0,350,False,False,True,True,True,False,analyst,senior,1865,0
+3.7","Philadelphia, PA","Phila, PA",201 to 500 employees,1994,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,Community Behavioral Health, PA,0,0,50.0,89.0,75.0,0,32,201.0,500.0,350,False,False,False,True,True,False,analyst,senior,1865,0
 "Senior Engineer, Data Management Engineering",$68K-$129K (Glassdoor est.),"Western Digital®
 
 
@@ -19264,7 +19264,7 @@ What’s in it for you:
 · Joining a growing and exciting team making a big impact on the business!
 
 TRANZACT, a Willis Towers Watson Company, is an Equal Opportunity/Affirmative Action employer and voluntarily complies with the laws and regulations related to employment without regard to race, color, religion, sex, national origin, marital status, sexual orientation, age, status as a protected veteran or individual with a disability, ancestry, gender, gender identity or expression, or any other protected group status or non-job related characteristic protected by applicable human rights or equal opportunity legislation. We are a company that values diversity. As required by law, we must record certain information to be used as part of our Affirmative Action Program. In extending this invitation you are advised that (a) response data is used for periodic government reporting and will remain confidential within Human Resources department; (b) responses are used solely to help us comply with government record keeping, reporting and other legal requirements.",3.6,"TRANZACT
-3.6","Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,TRANZACT, NJ,0,0,87.0,141.0,130.5,1,37,1001.0,5000.0,3000,True,False,True,True,True,False,data scientist,na,4648,0
+3.6","Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,TRANZACT, NJ,0,0,87.0,141.0,130.5,1,37,1001.0,5000.0,3000,True,False,False,True,True,False,data scientist,na,4648,0
 Data Scientist,$71K-$121K (Glassdoor est.),"JOB SUMMARY
 
 Responsible for scoping, developing, modeling, implementing, and delivering robust data analytics by using Teradata Aster and/or other analytic tools.
@@ -19433,7 +19433,7 @@ American
 Career College and West Coast University are proud to be an equal opportunity
 employer, and we seek candidates who desire to work in and serve an
 ethnically-diverse population.",2.6,"West Coast University
-2.6","Irvine, CA","Irvine, CA",10000+ employees,1997,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,-1,West Coast University, CA,0,0,101.0,141.0,151.5,1,29,10000.0,10000.0,10000,True,True,True,True,False,False,data scientist,na,2399,0
+2.6","Irvine, CA","Irvine, CA",10000+ employees,1997,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,-1,West Coast University, CA,0,0,101.0,141.0,151.5,1,29,10000.0,10000.0,10000,True,True,False,True,False,False,data scientist,na,2399,0
 Data Scientist (Warehouse Automation),$79K-$127K (Glassdoor est.),"SoftBank Robotics, the global leader in workforce automation, is seeking a passionate data scientist to join a fast-growing team that is focused on shaping the future of logistics with artificial intelligence and robotics. We believe automation to be the next big technological shift, comparable to the introduction of the smartphone. As part of the warehouse automation team, you will participate in the design and deployment of solutions for networks of distribution and fulfillment centers, integrating the most advanced robotics technologies.
 
 In this role you will be the data guru of the warehouse automation team. You will provide the team with the appropriate data analysis to design solutions and supply chain networks, as well as data to monitor operations.
