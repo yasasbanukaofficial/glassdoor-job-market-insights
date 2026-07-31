@@ -1,3 +1,6 @@
+import re
+import pandas as pd
+
 def title_simplifier(title: str):
     """
         Simplifies in job_title into proper categorical manner
@@ -31,3 +34,11 @@ def seniority(title):
         return "junior"
     else: 
         return "na"
+
+
+def convert_desc_to_words(job_desc: pd.Series):
+    job_desc = ' '.join(job_desc.astype(str).tolist())
+    job_desc = re.sub(r'[^\w\s]', '', job_desc).lower()
+    job_desc = ' '.join(word for word in job_desc.split())
+
+    return job_desc
